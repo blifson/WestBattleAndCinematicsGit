@@ -1,0 +1,1210 @@
+﻿Log file open, 06/06/19 15:39:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MagnetCave
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290743
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.06-20.39.52:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.06-20.39.52:339][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.06-20.39.52:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.06-20.39.52:340][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.06-20.39.52:342][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.06-20.39.52:342][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.06-20.39.52:342][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.06-20.39.52:342][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.06-20.39.52:412][  0]LogHAL: Display: Platform has ~ 8 GB [8538255360 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.06-20.39.52:412][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.06-20.39.52:412][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.06-20.39.52:412][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.06-20.39.52:413][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.06-20.39.52:753][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.06-20.39.52:753][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.06-20.39.52:753][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.06-20.39.52:753][  0]LogInit: Computer: DARKTOP
+[2019.06.06-20.39.52:753][  0]LogInit: User: blifson
+[2019.06.06-20.39.52:753][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.06-20.39.52:753][  0]LogInit: High frequency timer resolution =3.897231 MHz
+[2019.06.06-20.39.52:753][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.06.06-20.39.52:753][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.06-20.39.52:753][  0]LogMemory: Process Physical Memory: 97.22 MB used, 97.22 MB peak
+[2019.06.06-20.39.52:753][  0]LogMemory: Process Virtual Memory: 93.27 MB used, 93.27 MB peak
+[2019.06.06-20.39.52:753][  0]LogMemory: Physical Memory: 2850.25 MB used,  5292.47 MB free, 8142.71 MB total
+[2019.06.06-20.39.52:753][  0]LogMemory: Virtual Memory: 4663.09 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.06.06-20.39.52:774][  0]LogInit: Using OS detected language (en-US).
+[2019.06.06-20.39.52:774][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.06-20.39.52:775][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.06-20.39.53:167][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.06-20.39.53:460][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.06-20.39.53:460][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.06-20.40.02:505][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.06-20.40.02:505][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.06-20.40.02:566][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.06.06-20.40.02:566][  0]LogD3D11RHI:       2016/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.06-20.40.02:568][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.06-20.40.02:568][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.06-20.40.02:568][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.06-20.40.02:574][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.06-20.40.02:575][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.06-20.40.02:575][  0]LogWindows: EnumDisplayDevices:
+[2019.06.06-20.40.02:575][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.06.06-20.40.02:575][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.06-20.40.02:575][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.06-20.40.02:575][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.06-20.40.02:576][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.06-20.40.02:576][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.06.06-20.40.02:576][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.06.06-20.40.02:576][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.06.06-20.40.02:576][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2019.06.06-20.40.02:629][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.06-20.40.02:633][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.06-20.40.02:633][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.06-20.40.02:633][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.06-20.40.02:641][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.06-20.40.03:116][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.06-20.40.03:130][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.06-20.40.03:144][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.06-20.40.03:156][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.06-20.40.03:190][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.06-20.40.03:202][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.06-20.40.03:226][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.06-20.40.03:251][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.06-20.40.03:260][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.06-20.40.03:356][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.06-20.40.03:358][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.06-20.40.03:459][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.06-20.40.03:459][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.06-20.40.03:524][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.06-20.40.03:524][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.06-20.40.03:549][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.06-20.40.03:605][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.06-20.40.03:661][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.06-20.40.03:705][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.06-20.40.03:769][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.06-20.40.03:769][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.06-20.40.03:769][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.06-20.40.03:780][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.06-20.40.03:864][  0]LogShaderCompilers: Guid format shader working directory is -60 characters bigger than the processId version (../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Intermediate/Shaders/WorkingDirectory/15324/).
+[2019.06.06-20.40.03:864][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/blifson/AppData/Local/Temp/UnrealShaderWorkingDir/4E2A5BA24733A11A2333F1AFA50CA4C1/'.
+[2019.06.06-20.40.03:867][  0]LogXGEController: Cleaning working directory: C:/Users/blifson/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.06-20.40.03:868][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.06-20.40.03:868][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.06-20.40.03:868][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.06-20.40.04:836][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.06-20.40.05:400][  0]LogDerivedDataCache: Loaded boot cache 0.56s 71MB C:/Users/blifson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.06-20.40.05:401][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/blifson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.06-20.40.05:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.06-20.40.05:401][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.06-20.40.05:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.06-20.40.05:401][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.06-20.40.05:434][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.06-20.40.05:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.06-20.40.05:434][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.06-20.40.05:447][  0]LogDerivedDataCache: Using Local data cache path C:/Users/blifson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.06-20.40.05:447][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.06-20.40.05:447][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.06-20.40.05:497][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.06-20.40.05:498][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.06-20.40.05:537][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.06-20.40.07:055][  0]LogAssetRegistry: FAssetRegistry took 0.0350 seconds to start up
+[2019.06.06-20.40.07:433][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.06-20.40.07:606][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.06-20.40.07:606][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.06-20.40.07:606][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.06-20.40.07:606][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.06-20.40.07:606][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.06-20.40.07:626][  0]LogNetVersion: MagnetCave 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3769852046)
+[2019.06.06-20.40.08:110][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038486 seconds
+[2019.06.06-20.40.08:115][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.06-20.40.08:115][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.06-20.40.08:115][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.06-20.40.39:307][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.06-20.40.39:321][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.06-20.40.39:482][  0]SourceControl: Source control is disabled
+[2019.06.06-20.40.39:483][  0]SourceControl: Source control is disabled
+[2019.06.06-20.40.39:484][  0]SourceControl: Source control is disabled
+[2019.06.06-20.40.39:485][  0]SourceControl: Source control is disabled
+[2019.06.06-20.40.39:683][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.06-20.40.39:733][  0]LogOcInput: OculusInput pre-init called
+[2019.06.06-20.40.40:492][  0]LogEngine: Initializing Engine...
+[2019.06.06-20.40.40:493][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.06-20.40.40:495][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.06.06-20.40.40:724][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.06-20.40.40:736][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.06-20.40.40:743][  0]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.40.40:761][  0]LogInit: FAudioDevice initialized.
+[2019.06.06-20.40.40:761][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.06-20.40.40:935][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/blifson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.06-20.40.40:950][  0]LogInit: Texture streaming: Enabled
+[2019.06.06-20.40.40:994][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.06-20.40.41:024][  0]LogInit: Transaction tracking system initialized
+[2019.06.06-20.40.41:053][  0]BlueprintLog: New page: Editor Load
+[2019.06.06-20.40.41:426][  0]LocalizationService: Localization service is disabled
+[2019.06.06-20.40.42:122][  0]LogFileCache: Scanning file cache for directory 'C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/' took 0.02s
+[2019.06.06-20.40.42:122][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.06-20.40.42:122][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.06-20.40.44:182][  0]SourceControl: Source control is disabled
+[2019.06.06-20.40.44:182][  0]LightingResults: New page: Lighting Build
+[2019.06.06-20.40.44:188][  0]MapCheck: New page: Map Check
+[2019.06.06-20.40.44:188][  0]LightingResults: New page: Lighting Build
+[2019.06.06-20.40.44:220][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.06.06-20.40.45:246][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.40.45:290][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.06-20.40.45:319][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.06.06-20.40.45:319][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.06-20.40.45:319][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.212ms to complete.
+[2019.06.06-20.40.45:319][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 1.137
+[2019.06.06-20.40.45:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.40.45:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.40.45:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.40.45:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.40.45:674][  0]LogCollectionManager: Loaded 0 collections in 0.001970 seconds
+[2019.06.06-20.40.45:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Collections/' took 0.01s
+[2019.06.06-20.40.45:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Developers/blifson/Collections/' took 0.00s
+[2019.06.06-20.40.45:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Collections/' took 0.00s
+[2019.06.06-20.40.45:689][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.06-20.40.45:714][  0]LogContentBrowser: Native class hierarchy populated in 0.0248 seconds. Added 2732 classes and 659 folders.
+[2019.06.06-20.40.45:726][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.06-20.40.45:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.45:941][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-20.40.47:120][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.06.06-20.40.47:138][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.06.06-20.40.47:185][  0]LogSlate: Took 0.013596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.06-20.40.47:202][  0]LogSlate: Took 0.014683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.06-20.40.47:224][  0]LogSlate: Took 0.014319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.06-20.40.47:335][  0]LogRenderer: Reallocating scene render targets to support 840x372 Format 10 NumSamples 1 (Frame:1).
+[2019.06.06-20.40.47:442][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.06.06-20.40.47:442][  0]LogLoad: (Engine Initialization) Total time: 63.76 seconds
+[2019.06.06-20.40.47:442][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.06-20.40.47:496][  0]LogAssetRegistry: Asset discovery search completed in 40.4631 seconds
+[2019.06.06-20.40.47:498][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.06-20.40.47:498][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2019.06.06-20.40.47:501][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.06-20.40.47:584][  0]LogSlate: Took 0.056354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.06-20.40.48:806][  4]LogSlate: Took 0.000554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.06-20.40.56:263][ 32]LogEditorViewport: Clicking on Actor (LMB): BP_HitableCanGrapple_C (BP_HitableCanGrapple5)
+[2019.06.06-20.40.57:500][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.40.57:616][189]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.40.57:629][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.40.57:629][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.40.57:629][189]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:40:57 AM)
+[2019.06.06-20.40.57:642][189]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.40.57:659][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016849s)
+[2019.06.06-20.40.57:659][189]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.40.57:660][189]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2019.06.06-20.40.57:660][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.018029s)
+[2019.06.06-20.40.57:680][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.06.06-20.40.57:686][189]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.40.57:693][189]LogInit: FAudioDevice initialized.
+[2019.06.06-20.40.57:731][189]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode'
+[2019.06.06-20.40.57:732][189]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode'
+[2019.06.06-20.40.57:732][189]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2019.06.06-20.40.57:732][189]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.40.57:739][189]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.40.57
+[2019.06.06-20.40.57:741][189]LogWorld: Bringing up level for play took: 0.005365
+[2019.06.06-20.40.57:771][189]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.06.06-20.40.57:775][189]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap 0.182
+[2019.06.06-20.40.57:775][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.01:862][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.01:863][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.41.01:889][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.41.01:889][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.01:928][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.41.01:931][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.06.06-20.41.01:962][677]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.06.06-20.41.07:405][329]LogEditorViewport: Clicking on Actor (LMB): BP_MagnetProjectile_C (BP_MagnetProjectile)
+[2019.06.06-20.41.08:596][469]Cmd: DELETE
+[2019.06.06-20.41.08:596][469]Cmd: ACTOR DELETE
+[2019.06.06-20.41.08:600][469]LogEditorActor: Deleted Actor: BP_MagnetProjectile_C
+[2019.06.06-20.41.08:619][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.06.06-20.41.08:619][469]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.06.06-20.41.09:806][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.41.09:913][624]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.41.09:927][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.09:927][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.41.09:928][624]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:41:09 AM)
+[2019.06.06-20.41.09:928][624]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.41.09:940][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012461s)
+[2019.06.06-20.41.09:941][624]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.41.09:941][624]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.06.06-20.41.09:941][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013543s)
+[2019.06.06-20.41.09:962][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.06.06-20.41.09:967][624]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.41.09:974][624]LogInit: FAudioDevice initialized.
+[2019.06.06-20.41.10:004][624]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.41.10:006][624]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.41.10
+[2019.06.06-20.41.10:006][624]LogWorld: Bringing up level for play took: 0.001409
+[2019.06.06-20.41.10:019][624]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap 0.425
+[2019.06.06-20.41.10:019][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.22:614][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.22:615][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.41.22:645][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.41.22:645][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.22:683][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.41.22:685][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.06.06-20.41.22:719][135]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.06-20.41.34:281][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.41.40:473][186]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Projectile/BP_GrappleLine.BP_GrappleLine
+[2019.06.06-20.41.40:879][186]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2019.06.06-20.41.41:754][186]LogSlate: Took 0.008715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.06-20.41.41:929][187]LogSlate: Took 0.012480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.06-20.41.46:071][674]LogSlate: Window 'BP_GrappleLine' being destroyed
+[2019.06.06-20.41.47:760][872]LogRenderer: Reallocating scene render targets to support 840x460 Format 10 NumSamples 1 (Frame:1).
+[2019.06.06-20.41.54:293][640]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-20.41.54:437][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.06.06-20.41.55:690][787]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.41.55:705][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.55:705][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.41.55:705][787]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:41:55 AM)
+[2019.06.06-20.41.55:705][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.41.55:717][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012374s)
+[2019.06.06-20.41.55:718][787]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.41.55:718][787]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2019.06.06-20.41.55:718][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013237s)
+[2019.06.06-20.41.55:748][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.06.06-20.41.55:756][787]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.41.55:763][787]LogInit: FAudioDevice initialized.
+[2019.06.06-20.41.55:768][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.41.55:795][787]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.41.55:797][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.41.55
+[2019.06.06-20.41.55:798][787]LogWorld: Bringing up level for play took: 0.001708
+[2019.06.06-20.41.55:812][787]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap 0.219
+[2019.06.06-20.41.55:812][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.41.55:836][789]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.06.06-20.42.13:155][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.42.13:155][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.42.13:168][863]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-20.42.13:197][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.42.13:197][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.42.13:229][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.06.06-20.42.13:255][866]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.06.06-20.42.31:409][ 22]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.06.06-20.42.32:176][ 22]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.06-20.43.11:908][665]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile
+[2019.06.06-20.43.27:758][443]BlueprintLog: New page: Compile BP_MagnetProjectile
+[2019.06.06-20.43.27:963][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.06.06-20.43.27:965][443]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_6:PersistentLevel.BP_MagnetProjectile_C_0
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0168
+[2019.06.06-20.43.30:798][780]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.43.30:816][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.43.30:816][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.43.30:817][780]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:43:30 AM)
+[2019.06.06-20.43.30:817][780]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.43.30:829][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012473s)
+[2019.06.06-20.43.30:830][780]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.43.30:830][780]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2019.06.06-20.43.30:830][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013472s)
+[2019.06.06-20.43.30:870][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.06.06-20.43.30:874][780]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.43.30:882][780]LogInit: FAudioDevice initialized.
+[2019.06.06-20.43.30:907][780]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.43.30:909][780]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.43.30
+[2019.06.06-20.43.30:909][780]LogWorld: Bringing up level for play took: 0.001422
+[2019.06.06-20.43.30:922][780]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.671
+[2019.06.06-20.43.30:922][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.43.35:493][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.43.35:494][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.43.35:526][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.43.35:526][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.43.35:577][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.43.35:582][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.06.06-20.43.35:600][327]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.06.06-20.43.36:267][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.43.37:333][527]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/BP_MagnetProjectileBB0952214C5BC622706987AA242F9F2D.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Blueprints/Projectile/BP_MagnetProjectile.uasset'
+[2019.06.06-20.44.10:158][383]BlueprintLog: New page: Compile BP_MagnetProjectile
+[2019.06.06-20.44.10:410][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.06.06-20.44.10:412][383]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_6:PersistentLevel.BP_MagnetProjectile_C_1
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:01B9
+[2019.06.06-20.44.10:961][445]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.44.10:981][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.44.10:981][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.44.10:981][445]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:44:10 AM)
+[2019.06.06-20.44.10:981][445]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.44.10:993][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011724s)
+[2019.06.06-20.44.10:994][445]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.44.10:994][445]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2019.06.06-20.44.10:994][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012779s)
+[2019.06.06-20.44.11:030][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.06.06-20.44.11:036][445]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.44.11:043][445]LogInit: FAudioDevice initialized.
+[2019.06.06-20.44.11:047][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.44.11:077][445]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.44.11:079][445]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.44.11
+[2019.06.06-20.44.11:079][445]LogWorld: Bringing up level for play took: 0.001567
+[2019.06.06-20.44.11:093][445]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.5
+[2019.06.06-20.44.11:093][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.44.21:141][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.44.21:141][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.44.21:153][650]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-20.44.21:188][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.44.21:189][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.44.21:233][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.06.06-20.44.21:250][651]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.06.06-20.44.35:068][288]BlueprintLog: New page: Compile BP_MagnetProjectile
+[2019.06.06-20.44.35:239][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.06.06-20.44.35:241][288]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_6:PersistentLevel.BP_MagnetProjectile_C_2
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-20.44.52:346][235]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animation/Mixamo/Anim_BP_Miner.Anim_BP_Miner
+[2019.06.06-20.44.52:365][235]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.06.06-20.44.52:365][235]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.06-20.44.52:535][235]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.06-20.44.52:540][235]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.06.06-20.44.52:540][235]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.06-20.44.52:759][235]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.06-20.44.53:424][235]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.06-20.46.04:807][695]BlueprintLog: New page: Compile Anim_BP_Miner
+[2019.06.06-20.46.05:118][695]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2019.06.06-20.46.08:773][129]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.46.08:793][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.46.08:794][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.46.08:794][129]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:46:08 AM)
+[2019.06.06-20.46.08:794][129]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.46.08:807][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013252s)
+[2019.06.06-20.46.08:808][129]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.46.08:808][129]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2019.06.06-20.46.08:808][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014561s)
+[2019.06.06-20.46.08:852][129]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.06.06-20.46.08:857][129]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.46.08:865][129]LogInit: FAudioDevice initialized.
+[2019.06.06-20.46.08:869][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.46.08:896][129]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.46.08:898][129]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.46.08
+[2019.06.06-20.46.08:898][129]LogWorld: Bringing up level for play took: 0.001612
+[2019.06.06-20.46.08:913][129]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.68
+[2019.06.06-20.46.08:913][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.46.31:150][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.46.31:150][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.46.31:163][791]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-20.46.31:193][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.46.31:193][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.46.31:238][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.06.06-20.46.31:256][792]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.06.06-20.46.38:287][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.06.06-20.46.39:437][588]LogSlate: Window 'Save Content' being destroyed
+[2019.06.06-20.46.39:543][588]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Anim_BP_MinerB10306294130C9E01494A89B0829BDBA.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Animation/Mixamo/Anim_BP_Miner.uasset'
+[2019.06.06-20.46.39:658][588]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/BP_GrappleLineFC3606884A2C31972D55A08AB19AC7DC.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Blueprints/Projectile/BP_GrappleLine.uasset'
+[2019.06.06-20.46.39:768][588]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/BP_MagnetProjectile4C16011346FD20C2D598D6ACAAC5C70F.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Blueprints/Projectile/BP_MagnetProjectile.uasset'
+[2019.06.06-20.46.39:827][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.06.06-20.46.40:060][588]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/SideScrollerExampleMap44CFA8D34D1B224734F22AA168233EC2.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Maps/SideScrollerExampleMap.umap'
+[2019.06.06-20.46.40:095][588]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.321
+[2019.06.06-20.46.50:595][825]BlueprintLog: New page: Compile BP_MagnetProjectile
+[2019.06.06-20.46.50:817][825]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.06.06-20.46.50:820][825]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_6:PersistentLevel.BP_MagnetProjectile_C_3
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-20.46.51:359][887]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.46.51:381][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.46.51:381][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.46.51:381][887]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:46:51 AM)
+[2019.06.06-20.46.51:382][887]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.46.51:394][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012073s)
+[2019.06.06-20.46.51:394][887]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.46.51:395][887]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2019.06.06-20.46.51:395][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013121s)
+[2019.06.06-20.46.51:435][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.06.06-20.46.51:441][887]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.46.51:448][887]LogInit: FAudioDevice initialized.
+[2019.06.06-20.46.51:452][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.46.51:480][887]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.46.51:483][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.46.51
+[2019.06.06-20.46.51:483][887]LogWorld: Bringing up level for play took: 0.001574
+[2019.06.06-20.46.51:497][887]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.096
+[2019.06.06-20.46.51:498][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.47.02:865][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.47.02:865][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.47.02:878][250]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-20.47.02:906][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.47.02:906][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.47.02:952][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.06.06-20.47.02:970][251]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.06.06-20.47.16:982][927]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.47.17:002][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.47.17:002][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.47.17:002][927]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:47:17 AM)
+[2019.06.06-20.47.17:002][927]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.47.17:015][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012826s)
+[2019.06.06-20.47.17:016][927]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.47.17:016][927]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2019.06.06-20.47.17:016][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014009s)
+[2019.06.06-20.47.17:054][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.06.06-20.47.17:059][927]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.47.17:066][927]LogInit: FAudioDevice initialized.
+[2019.06.06-20.47.17:094][927]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.47.17:096][927]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.47.17
+[2019.06.06-20.47.17:096][927]LogWorld: Bringing up level for play took: 0.001478
+[2019.06.06-20.47.17:112][927]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.481
+[2019.06.06-20.47.17:113][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.47.25:116][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.47.25:117][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.47.25:146][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.47.25:146][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.47.25:187][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.47.25:191][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.06.06-20.47.25:216][882]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.06.06-20.47.30:510][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.47.43:189][ 29]BlueprintLog: New page: Compile BP_MagnetProjectile
+[2019.06.06-20.47.43:392][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.06.06-20.47.43:394][ 29]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_6:PersistentLevel.BP_MagnetProjectile_C_4
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-20.47.44:335][139]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.47.44:356][139]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.47.44:356][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.47.44:356][139]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:47:44 AM)
+[2019.06.06-20.47.44:356][139]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.47.44:367][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011234s)
+[2019.06.06-20.47.44:368][139]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.47.44:368][139]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.06.06-20.47.44:368][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012157s)
+[2019.06.06-20.47.44:409][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.06.06-20.47.44:415][139]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.47.44:422][139]LogInit: FAudioDevice initialized.
+[2019.06.06-20.47.44:426][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.47.44:456][139]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.47.44:458][139]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.47.44
+[2019.06.06-20.47.44:458][139]LogWorld: Bringing up level for play took: 0.001491
+[2019.06.06-20.47.44:472][139]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap 0.879
+[2019.06.06-20.47.44:472][139]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.48.01:489][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.48.01:489][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.48.01:501][180]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-20.48.01:534][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.48.01:534][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.48.01:600][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.06.06-20.48.01:618][181]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.06.06-20.48.39:856][733]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.06-20.49.52:423][326]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/CH_Player.CH_Player
+[2019.06.06-20.50.17:016][  5]BlueprintLog: New page: Compile CH_Player
+[2019.06.06-20.50.17:335][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.06.06-20.50.58:661][686]LogEditorTransaction: Undo Create Pin Link
+[2019.06.06-20.50.58:760][686]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.06-20.51.12:021][152]BlueprintLog: New page: Compile CH_Player
+[2019.06.06-20.51.12:281][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.06.06-20.51.17:513][726]BlueprintLog: New page: Compile CH_Player
+[2019.06.06-20.51.17:765][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.06.06-20.51.19:328][874]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.51.19:374][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.51.19:374][874]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.06-20.51.19:376][874]LogPlayLevel: [PlayLevel] Compiling BP_GrappleLine before play...
+[2019.06.06-20.51.19:381][874]LogPlayLevel: [PlayLevel]   Compiling CH_Player as a dependent...
+[2019.06.06-20.51.19:664][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.06.06-20.51.19:664][874]LogPlayLevel: PlayLevel: Blueprint regeneration took 290 ms (2 blueprints)
+[2019.06.06-20.51.19:664][874]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:51:19 AM)
+[2019.06.06-20.51.19:664][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.51.19:678][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013702s)
+[2019.06.06-20.51.19:679][874]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.51.19:679][874]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2019.06.06-20.51.19:679][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.015103s)
+[2019.06.06-20.51.19:720][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.06.06-20.51.19:725][874]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.51.19:733][874]LogInit: FAudioDevice initialized.
+[2019.06.06-20.51.19:737][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.51.19:767][874]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.51.19:769][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.51.19
+[2019.06.06-20.51.19:770][874]LogWorld: Bringing up level for play took: 0.001497
+[2019.06.06-20.51.19:785][874]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap 0.192
+[2019.06.06-20.51.19:786][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.51.19:972][875]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072439 > MaxSimulationTimeStep (0.050) for 'SideScrollerCharacter_78', movement 'Walking'
+[2019.06.06-20.51.37:138][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.51.37:139][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.51.37:151][927]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-20.51.37:182][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.51.37:182][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.51.37:231][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.06.06-20.51.37:255][928]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.06.06-20.52.13:589][166]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/CH_PlayerFA2351F14A7BD5D096EC1E9B273E5F37.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Blueprints/Characters/CH_Player.uasset'
+[2019.06.06-20.53.03:439][ 37]BlueprintLog: New page: Compile CH_Player
+[2019.06.06-20.53.03:837][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2019.06.06-20.53.29:978][139]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-20.53.30:231][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.06.06-20.55.23:185][515]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-20.55.23:406][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.06.06-20.56.34:453][856]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_MagnetProjectile_C_CHILDACTOR_1
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-20.56.34:454][856]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_MagnetProjectile_C_CHILDACTOR_3
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-20.56.52:349][950]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-20.56.52:356][950]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_MagnetProjectile_C_CHILDACTOR_5
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-20.56.52:605][950]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.06.06-20.56.52:606][950]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_MagnetProjectile_C_CHILDACTOR_7
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-20.56.52:618][950]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_MagnetProjectile_C_CHILDACTOR_9
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-20.56.53:377][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.56.53:406][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.56.53:406][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.56.53:406][ 37]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:56:53 AM)
+[2019.06.06-20.56.53:406][ 37]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.56.53:419][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012671s)
+[2019.06.06-20.56.53:419][ 37]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.56.53:420][ 37]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2019.06.06-20.56.53:420][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013608s)
+[2019.06.06-20.56.53:465][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.06.06-20.56.53:471][ 37]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.56.53:478][ 37]LogInit: FAudioDevice initialized.
+[2019.06.06-20.56.53:482][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.56.53:514][ 37]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.56.53:516][ 37]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.56.53
+[2019.06.06-20.56.53:517][ 37]LogWorld: Bringing up level for play took: 0.001639
+[2019.06.06-20.56.53:534][ 37]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.059
+[2019.06.06-20.56.53:534][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.56.56:264][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.56.56:264][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.56.56:276][358]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-20.56.56:312][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.56.56:313][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.56.56:398][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.06.06-20.56.56:409][359]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.06.06-20.56.57:240][456]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.56.57:260][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.56.57:260][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.56.57:260][456]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:56:57 AM)
+[2019.06.06-20.56.57:260][456]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.56.57:272][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011699s)
+[2019.06.06-20.56.57:272][456]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.56.57:273][456]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.06.06-20.56.57:273][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012791s)
+[2019.06.06-20.56.57:312][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.06.06-20.56.57:317][456]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.56.57:324][456]LogInit: FAudioDevice initialized.
+[2019.06.06-20.56.57:328][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.56.57:356][456]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.56.57:358][456]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.56.57
+[2019.06.06-20.56.57:359][456]LogWorld: Bringing up level for play took: 0.001469
+[2019.06.06-20.56.57:372][456]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.22
+[2019.06.06-20.56.57:372][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.56.58:864][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.56.58:864][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.56.58:878][634]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-20.56.58:908][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.56.58:908][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.56.58:958][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.06.06-20.56.58:968][635]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.06.06-20.57.01:967][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.06.06-20.57.03:282][146]LogEditorViewport: Clicking on Actor (LMB): CH_Player_C (SideScrollerCharacter)
+[2019.06.06-20.57.07:087][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.57.07:195][596]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.57.07:218][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.57.07:218][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.57.07:218][596]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 10:57:07 AM)
+[2019.06.06-20.57.07:218][596]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-20.57.07:230][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011277s)
+[2019.06.06-20.57.07:231][596]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-20.57.07:231][596]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2019.06.06-20.57.07:231][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012479s)
+[2019.06.06-20.57.07:273][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.06.06-20.57.07:279][596]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-20.57.07:286][596]LogInit: FAudioDevice initialized.
+[2019.06.06-20.57.07:311][596]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.57.07:313][596]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-15.57.07
+[2019.06.06-20.57.07:313][596]LogWorld: Bringing up level for play took: 0.001469
+[2019.06.06-20.57.07:327][596]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.266
+[2019.06.06-20.57.07:328][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.57.10:473][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.57.10:474][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.57.10:505][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.57.10:505][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-20.57.10:546][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.57.10:551][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.06.06-20.57.10:578][970]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.06.06-20.58.20:647][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.06.06-20.58.20:872][311]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/SideScrollerExampleMap_Auto1D9EC4EDB4D232A2BB7B4328664572850.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Autosaves/Game/Maps/SideScrollerExampleMap_Auto1.umap'
+[2019.06.06-20.58.20:875][311]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SideScrollerExampleMap' took 0.281
+[2019.06.06-20.58.20:875][311]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.281
+[2019.06.06-20.58.20:877][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/CH_Player] ([1] browsable assets)...
+[2019.06.06-20.58.20:904][311]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/CH_Player.CH_Player]
+[2019.06.06-20.58.20:904][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/CH_Player]
+[2019.06.06-20.58.21:072][311]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/CH_Player_Auto1EE5F27234D96028519E3CEBCFB587655.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Autosaves/Game/Blueprints/Characters/CH_Player_Auto1.uasset'
+[2019.06.06-20.58.21:074][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Projectile/BP_GrappleLine] ([1] browsable assets)...
+[2019.06.06-20.58.21:075][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile/BP_GrappleLine]
+[2019.06.06-20.58.21:153][311]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/BP_GrappleLine_Auto1216D34D14604881FF667A4931159A83A.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Autosaves/Game/Blueprints/Projectile/BP_GrappleLine_Auto1.uasset'
+[2019.06.06-20.58.21:157][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectile/BP_MagnetProjectile] ([1] browsable assets)...
+[2019.06.06-20.58.21:213][311]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile]
+[2019.06.06-20.58.21:213][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile/BP_MagnetProjectile]
+[2019.06.06-20.58.21:317][311]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/BP_MagnetProjectile_Auto1658FF8054EE899293E27E3A57168CA8D.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Autosaves/Game/Blueprints/Projectile/BP_MagnetProjectile_Auto1.uasset'
+[2019.06.06-20.58.21:321][311]LogFileHelpers: Auto-saving content packages took 0.444
+[2019.06.06-21.00.40:677][767]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_MagnetProjectile_C_CHILDACTOR_11
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-21.02.38:997][812]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-21.02.39:280][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.06.06-21.02.52:838][420]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-21.02.53:227][420]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.06.06-21.02.53:836][488]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-21.02.53:860][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.02.53:860][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-21.02.53:860][488]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 11:02:53 AM)
+[2019.06.06-21.02.53:860][488]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-21.02.53:872][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011718s)
+[2019.06.06-21.02.53:872][488]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-21.02.53:873][488]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2019.06.06-21.02.53:873][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012785s)
+[2019.06.06-21.02.53:918][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.06.06-21.02.53:924][488]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-21.02.53:931][488]LogInit: FAudioDevice initialized.
+[2019.06.06-21.02.53:936][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.02.53:966][488]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-21.02.53:968][488]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-16.02.53
+[2019.06.06-21.02.53:968][488]LogWorld: Bringing up level for play took: 0.001732
+[2019.06.06-21.02.53:984][488]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap 0.391
+[2019.06.06-21.02.53:984][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.02.57:706][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.02.57:706][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.02.57:719][930]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-21.02.57:753][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-21.02.57:753][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.02.57:801][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.06.06-21.02.57:818][931]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.06.06-21.04.00:844][288]BlueprintLog: New page: Compile CH_Player
+[2019.06.06-21.04.01:107][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.06.06-21.04.02:167][396]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-21.04.02:214][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.04.02:215][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-21.04.02:215][396]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 11:04:02 AM)
+[2019.06.06-21.04.02:215][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-21.04.02:227][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011741s)
+[2019.06.06-21.04.02:227][396]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-21.04.02:227][396]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.06.06-21.04.02:227][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012638s)
+[2019.06.06-21.04.02:273][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.06.06-21.04.02:279][396]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-21.04.02:285][396]LogInit: FAudioDevice initialized.
+[2019.06.06-21.04.02:290][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.04.02:319][396]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-21.04.02:322][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-16.04.02
+[2019.06.06-21.04.02:322][396]LogWorld: Bringing up level for play took: 0.002604
+[2019.06.06-21.04.02:337][396]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap 0.744
+[2019.06.06-21.04.02:338][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.04.03:875][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.04.03:875][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.04.03:887][566]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-21.04.03:942][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-21.04.03:942][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.04.04:002][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.06.06-21.04.04:111][567]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.06.06-21.04.29:291][554]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-21.04.29:531][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.06.06-21.05.15:501][ 21]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-21.05.15:780][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.06.06-21.05.18:299][316]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-21.05.18:533][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.06.06-21.05.18:997][363]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/BP_GrappleLine0E7DE555421859141EF01792439F1AE7.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Blueprints/Projectile/BP_GrappleLine.uasset'
+[2019.06.06-21.05.47:484][629]BlueprintLog: New page: Compile CH_Player
+[2019.06.06-21.05.47:744][629]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.06.06-21.06.08:143][ 22]BlueprintLog: New page: Compile CH_Player
+[2019.06.06-21.06.08:430][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.06.06-21.07.10:120][311]BlueprintLog: New page: Compile CH_Player
+[2019.06.06-21.07.10:439][311]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.06.06-21.07.10:447][311]LogScript: Warning: Accessed None trying to read property Player
+	BP_MagnetProjectile_C /Engine/Transient.World_6:PersistentLevel.BP_MagnetProjectile_C_5
+	Function /Game/Blueprints/Projectile/BP_MagnetProjectile.BP_MagnetProjectile_C:ExecuteUbergraph_BP_MagnetProjectile:0016
+[2019.06.06-21.07.16:403][ 11]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-21.07.16:626][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.06.06-21.07.17:156][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-21.07.17:191][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.07.17:191][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-21.07.17:191][ 70]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 11:07:17 AM)
+[2019.06.06-21.07.17:191][ 70]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-21.07.17:203][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011808s)
+[2019.06.06-21.07.17:204][ 70]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-21.07.17:204][ 70]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2019.06.06-21.07.17:204][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012782s)
+[2019.06.06-21.07.17:249][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.06.06-21.07.17:254][ 70]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-21.07.17:261][ 70]LogInit: FAudioDevice initialized.
+[2019.06.06-21.07.17:266][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.07.17:295][ 70]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-21.07.17:297][ 70]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-16.07.17
+[2019.06.06-21.07.17:298][ 70]LogWorld: Bringing up level for play took: 0.001572
+[2019.06.06-21.07.17:311][ 70]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.282
+[2019.06.06-21.07.17:311][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.07.29:403][518]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.07.29:404][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.07.29:416][518]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-21.07.29:451][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-21.07.29:451][518]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.07.29:500][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.06.06-21.07.29:511][519]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.06.06-21.08.49:690][ 67]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-21.08.49:909][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.06.06-21.08.53:176][454]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-21.08.53:203][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.08.53:203][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-21.08.53:203][454]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 11:08:53 AM)
+[2019.06.06-21.08.53:203][454]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-21.08.53:214][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011500s)
+[2019.06.06-21.08.53:215][454]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-21.08.53:216][454]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2019.06.06-21.08.53:216][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012857s)
+[2019.06.06-21.08.53:261][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.06.06-21.08.53:266][454]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-21.08.53:273][454]LogInit: FAudioDevice initialized.
+[2019.06.06-21.08.53:277][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.08.53:305][454]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-21.08.53:308][454]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-16.08.53
+[2019.06.06-21.08.53:308][454]LogWorld: Bringing up level for play took: 0.001612
+[2019.06.06-21.08.53:324][454]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap -0.269
+[2019.06.06-21.08.53:325][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.08.58:645][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.08.58:645][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.08.58:658][ 90]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-21.08.58:695][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-21.08.58:695][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.08.58:761][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.06.06-21.08.58:771][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.06.06-21.08.59:564][184]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-21.08.59:588][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.08.59:588][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-21.08.59:588][184]PIE: New page: PIE session: SideScrollerExampleMap (Jun 6, 2019, 11:08:59 AM)
+[2019.06.06-21.08.59:588][184]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.06-21.08.59:599][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011280s)
+[2019.06.06-21.08.59:600][184]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.06-21.08.59:600][184]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2019.06.06-21.08.59:600][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012259s)
+[2019.06.06-21.08.59:642][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.06.06-21.08.59:647][184]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.06-21.08.59:654][184]LogInit: FAudioDevice initialized.
+[2019.06.06-21.08.59:658][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.08.59:684][184]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-21.08.59:686][184]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.06-16.08.59
+[2019.06.06-21.08.59:686][184]LogWorld: Bringing up level for play took: 0.001459
+[2019.06.06-21.08.59:700][184]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScrollerExampleMap 0.107
+[2019.06.06-21.08.59:700][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.09.05:790][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.09.05:790][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-21.09.05:803][914]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.06-21.09.05:836][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-21.09.05:836][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.06-21.09.05:900][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.06.06-21.09.05:909][915]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.06.06-21.09.53:838][623]BlueprintLog: New page: Compile BP_GrappleLine
+[2019.06.06-21.09.54:061][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.06.06-21.10.55:085][832]LogUObjectArray: Warning: Other object in slot
+[2019.06.06-21.10.55:097][832]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.06-21.10.56:578][832]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.481 s
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: 
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: Stack: 
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: [Callstack] 0x00007ff89537b0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: [Callstack] 0x00007ff894bf6f7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: [Callstack] 0x00007ff894c04d90 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-21.10.56:578][832]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b937f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff88f8c5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff88f881e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8c8745984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8c89315e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8c878d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8c876af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8c8760287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8dbb0b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8dbafef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8dbb0d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8dbafc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8ee1d6d41 USER32.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8ee1d6713 USER32.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8dbb0e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff7c0225d3e UE4Editor.exe!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff7c023554c UE4Editor.exe!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff7c02355ca UE4Editor.exe!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff7c024316c UE4Editor.exe!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff7c0245b8e UE4Editor.exe!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8f0054034 KERNEL32.DLL!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: [Callstack] 0x00007ff8f0c73691 ntdll.dll!UnknownFunction []
+[2019.06.06-21.10.56:579][832]LogOutputDevice: Error: 
+[2019.06.06-21.10.56:628][832]LogStats:                SubmitErrorReport -  0.000 s
