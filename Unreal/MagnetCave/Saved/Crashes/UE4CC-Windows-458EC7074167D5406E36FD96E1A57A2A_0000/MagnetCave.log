@@ -1,0 +1,1000 @@
+﻿Log file open, 06/08/19 15:50:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MagnetCave
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266770
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=blifson -epicuserid=a75e3b405d1040199ec7dcf6a31d40e6 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.08-20.50.22:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.08-20.50.22:433][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.08-20.50.22:434][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.08-20.50.22:434][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.08-20.50.22:435][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.08-20.50.22:435][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.08-20.50.22:435][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.08-20.50.22:435][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.08-20.50.22:436][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.08-20.50.22:436][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.08-20.50.22:436][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.08-20.50.22:447][  0]LogHAL: Display: Platform has ~ 8 GB [8538255360 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.08-20.50.22:447][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.08-20.50.22:447][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.08-20.50.22:447][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.08-20.50.22:448][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Config/Windows/Engine.ini]
+[2019.06.08-20.50.22:449][  0]LogInit: Computer: DARKTOP
+[2019.06.08-20.50.22:449][  0]LogInit: User: blifson
+[2019.06.08-20.50.22:449][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.08-20.50.22:449][  0]LogInit: High frequency timer resolution =3.897231 MHz
+[2019.06.08-20.50.22:449][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.06.08-20.50.22:449][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.08-20.50.22:449][  0]LogMemory: Process Physical Memory: 98.03 MB used, 98.03 MB peak
+[2019.06.08-20.50.22:449][  0]LogMemory: Process Virtual Memory: 88.91 MB used, 88.91 MB peak
+[2019.06.08-20.50.22:449][  0]LogMemory: Physical Memory: 3854.45 MB used,  4288.26 MB free, 8142.71 MB total
+[2019.06.08-20.50.22:449][  0]LogMemory: Virtual Memory: 4659.09 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.06.08-20.50.22:467][  0]LogInit: Using OS detected language (en-US).
+[2019.06.08-20.50.22:467][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.08-20.50.22:468][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.08-20.50.22:620][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.08-20.50.22:647][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.08-20.50.22:647][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.08-20.50.22:800][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.08-20.50.22:800][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.08-20.50.22:844][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.06.08-20.50.22:844][  0]LogD3D11RHI:       2016/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.08-20.50.22:846][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.08-20.50.22:846][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.08-20.50.22:846][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.08-20.50.22:850][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.08-20.50.22:850][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.08-20.50.22:850][  0]LogWindows: EnumDisplayDevices:
+[2019.06.08-20.50.22:850][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.06.08-20.50.22:850][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.08-20.50.22:850][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.08-20.50.22:851][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.08-20.50.22:851][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.08-20.50.22:851][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.06.08-20.50.22:851][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.06.08-20.50.22:851][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.06.08-20.50.22:851][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2019.06.08-20.50.22:875][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.08-20.50.22:878][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.08-20.50.22:878][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.08-20.50.22:878][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.08-20.50.22:885][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.08-20.50.23:274][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.08-20.50.23:288][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.08-20.50.23:301][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.08-20.50.23:315][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.08-20.50.23:329][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.08-20.50.23:343][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.08-20.50.23:356][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.08-20.50.23:369][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.08-20.50.23:375][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.08-20.50.23:443][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.08-20.50.23:445][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.08-20.50.23:490][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.08-20.50.23:490][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.08-20.50.23:510][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.08-20.50.23:510][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.08-20.50.23:521][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.08-20.50.23:531][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.08-20.50.23:542][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.08-20.50.23:554][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.08-20.50.23:592][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.08-20.50.23:592][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.08-20.50.23:592][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.08-20.50.23:599][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.08-20.50.23:638][  0]LogShaderCompilers: Guid format shader working directory is -60 characters bigger than the processId version (../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Intermediate/Shaders/WorkingDirectory/14312/).
+[2019.06.08-20.50.23:638][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/blifson/AppData/Local/Temp/UnrealShaderWorkingDir/85F4B571437AE7B66EE596AC81E891B9/'.
+[2019.06.08-20.50.23:640][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.08-20.50.23:640][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.08-20.50.23:640][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.08-20.50.24:141][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.08-20.50.24:195][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/blifson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.08-20.50.24:195][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/blifson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.08-20.50.24:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.08-20.50.24:196][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.08-20.50.24:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.08-20.50.24:196][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.08-20.50.24:205][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.08-20.50.24:206][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.08-20.50.24:206][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.08-20.50.24:218][  0]LogDerivedDataCache: Using Local data cache path C:/Users/blifson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.08-20.50.24:218][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.08-20.50.24:218][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.08-20.50.24:237][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.08-20.50.24:238][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.08-20.50.24:238][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.08-20.50.24:312][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2019.06.08-20.50.24:590][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.08-20.50.24:703][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.08-20.50.24:703][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.08-20.50.24:703][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.08-20.50.24:703][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.08-20.50.24:703][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.08-20.50.24:712][  0]LogNetVersion: MagnetCave 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3769852046)
+[2019.06.08-20.50.25:043][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036669 seconds
+[2019.06.08-20.50.25:049][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.08-20.50.25:049][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.08-20.50.25:049][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.08-20.50.25:736][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.08-20.50.25:750][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.08-20.50.25:918][  0]SourceControl: Source control is disabled
+[2019.06.08-20.50.25:918][  0]SourceControl: Source control is disabled
+[2019.06.08-20.50.25:920][  0]SourceControl: Source control is disabled
+[2019.06.08-20.50.25:921][  0]SourceControl: Source control is disabled
+[2019.06.08-20.50.25:983][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.08-20.50.26:032][  0]LogOcInput: OculusInput pre-init called
+[2019.06.08-20.50.26:623][  0]LogEngine: Initializing Engine...
+[2019.06.08-20.50.26:623][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.08-20.50.26:624][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.06.08-20.50.26:805][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.08-20.50.26:820][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.08-20.50.26:832][  0]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.50.26:850][  0]LogInit: FAudioDevice initialized.
+[2019.06.08-20.50.26:850][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.08-20.50.27:092][  0]LogDerivedDataCache: Saved boot cache 0.24s 71MB C:/Users/blifson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.08-20.50.27:128][  0]LogInit: Texture streaming: Enabled
+[2019.06.08-20.50.27:163][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.08-20.50.27:180][  0]LogInit: Transaction tracking system initialized
+[2019.06.08-20.50.27:209][  0]BlueprintLog: New page: Editor Load
+[2019.06.08-20.50.27:288][  0]LocalizationService: Localization service is disabled
+[2019.06.08-20.50.27:536][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.08-20.50.27:536][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.08-20.50.27:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/' took 0.03s
+[2019.06.08-20.50.27:691][  0]SourceControl: Source control is disabled
+[2019.06.08-20.50.27:691][  0]Cmd: MAP LOAD FILE="../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Maps/TestLevel01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-20.50.27:691][  0]LightingResults: New page: Lighting Build
+[2019.06.08-20.50.27:694][  0]MapCheck: New page: Map Check
+[2019.06.08-20.50.27:694][  0]LightingResults: New page: Lighting Build
+[2019.06.08-20.50.27:712][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.06.08-20.50.28:279][  0]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.50.28:314][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-20.50.28:340][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.06.08-20.50.28:340][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-20.50.28:340][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2019.06.08-20.50.28:340][  0]LogFileHelpers: Loading map 'TestLevel01' took 0.649
+[2019.06.08-20.50.28:432][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.50.28:438][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.50.28:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.50.28:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.50.28:456][  0]LogCollectionManager: Loaded 0 collections in 0.001465 seconds
+[2019.06.08-20.50.28:472][  0]LogFileCache: Scanning file cache for directory 'C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/Collections/' took 0.01s
+[2019.06.08-20.50.28:472][  0]LogFileCache: Scanning file cache for directory 'C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Developers/blifson/Collections/' took 0.00s
+[2019.06.08-20.50.28:472][  0]LogFileCache: Scanning file cache for directory 'C:/Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Collections/' took 0.00s
+[2019.06.08-20.50.28:472][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.08-20.50.28:479][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2732 classes and 659 folders.
+[2019.06.08-20.50.28:484][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.08-20.50.28:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-20.50.28:522][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.08-20.50.28:527][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.08-20.50.28:538][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.08-20.50.28:540][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.08-20.50.28:544][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.08-20.50.28:583][  0]LogRenderer: Reallocating scene render targets to support 840x372 Format 10 NumSamples 1 (Frame:1).
+[2019.06.08-20.50.28:665][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.08-20.50.28:665][  0]LogLoad: (Engine Initialization) Total time: 8.21 seconds
+[2019.06.08-20.50.28:665][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.08-20.50.28:851][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.08-20.50.28:883][  0]LogAssetRegistry: Asset discovery search completed in 4.5935 seconds
+[2019.06.08-20.50.28:886][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.08-20.50.28:886][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2019.06.08-20.50.28:887][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.08-20.50.28:915][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.08-20.50.29:686][ 82]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.08-20.50.38:444][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-20.50.38:555][142]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/BP_InterBase.BP_InterBase
+[2019.06.08-20.50.38:751][142]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.06.08-20.50.39:500][142]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/CH_Player.CH_Player
+[2019.06.08-20.50.39:796][142]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2019.06.08-20.50.40:091][142]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/BP_GripRefill.BP_GripRefill
+[2019.06.08-20.50.40:368][142]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.50.40:375][142]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.08-20.50.41:625][283]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.08-20.50.45:925][765]LogSlate: Window 'BP_GripRefill' being destroyed
+[2019.06.08-20.51.48:344][235]BlueprintLog: New page: Compile CH_Player
+[2019.06.08-20.51.48:419][235]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.51.48:420][235]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.51.48:567][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.06.08-20.51.48:585][235]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.51.48:585][235]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.51.48:601][235]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.51.48:602][235]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.07:128][422]BlueprintLog: New page: Compile BP_Spawner
+[2019.06.08-20.52.07:288][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.06.08-20.52.07:297][422]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.07:297][422]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.07:307][422]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.07:308][422]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.09:317][659]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.08-20.52.09:343][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.52.09:343][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-20.52.09:343][659]PIE: New page: PIE session: TestLevel01 (Jun 8, 2019, 10:52:09 AM)
+[2019.06.08-20.52.09:356][659]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.06.08-20.52.09:376][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019842s)
+[2019.06.08-20.52.09:377][659]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.52.09:377][659]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2019.06.08-20.52.09:377][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.021151s)
+[2019.06.08-20.52.09:414][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.06.08-20.52.09:420][659]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.52.09:427][659]LogInit: FAudioDevice initialized.
+[2019.06.08-20.52.09:430][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.52.09:502][659]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.08-20.52.09:505][659]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.06.08-15.52.09
+[2019.06.08-20.52.09:505][659]LogWorld: Bringing up level for play took: 0.002397
+[2019.06.08-20.52.09:522][659]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.06.08-20.52.09:526][659]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.06.08-20.52.09:526][659]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.06.08-20.52.09:527][659]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.09:528][659]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] TestLevel01
+[2019.06.08-20.52.09:530][659]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.363
+[2019.06.08-20.52.09:530][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.52.09:572][660]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.06.08-20.52.10:764][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.52.10:764][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.52.10:779][771]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-20.52.10:818][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-20.52.10:818][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.52.10:911][771]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.06.08-20.52.10:961][772]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.06.08-20.52.13:746][103]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.08-20.52.13:764][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.52.13:764][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-20.52.13:764][103]PIE: New page: PIE session: TestLevel01 (Jun 8, 2019, 10:52:13 AM)
+[2019.06.08-20.52.13:764][103]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.06.08-20.52.13:783][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018758s)
+[2019.06.08-20.52.13:784][103]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.52.13:785][103]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2019.06.08-20.52.13:785][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.020442s)
+[2019.06.08-20.52.13:821][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.06.08-20.52.13:827][103]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.52.13:833][103]LogInit: FAudioDevice initialized.
+[2019.06.08-20.52.13:837][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.52.13:865][103]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.08-20.52.13:867][103]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.06.08-15.52.13
+[2019.06.08-20.52.13:867][103]LogWorld: Bringing up level for play took: 0.002453
+[2019.06.08-20.52.13:880][103]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.13:883][103]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] TestLevel01
+[2019.06.08-20.52.13:885][103]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.718
+[2019.06.08-20.52.13:886][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.52.15:014][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.52.15:014][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.52.15:028][234]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-20.52.15:063][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-20.52.15:063][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.52.15:105][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.06.08-20.52.15:113][235]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.08-20.52.32:337][289]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.32:338][289]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.32:345][289]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.32:346][289]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.32:359][289]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.32:360][289]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.48:290][190]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.48:291][190]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.48:297][190]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.48:298][190]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.48:304][190]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.52.48:304][190]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.11:124][885]BlueprintLog: New page: Compile CH_Player
+[2019.06.08-20.53.11:182][885]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.11:183][885]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.11:357][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.06.08-20.53.11:371][885]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.11:372][885]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.11:388][885]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.11:388][885]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.11:981][949]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.08-20.53.12:002][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.53.12:002][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-20.53.12:002][949]PIE: New page: PIE session: TestLevel01 (Jun 8, 2019, 10:53:12 AM)
+[2019.06.08-20.53.12:002][949]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.06.08-20.53.12:018][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016115s)
+[2019.06.08-20.53.12:019][949]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.53.12:019][949]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2019.06.08-20.53.12:019][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.017076s)
+[2019.06.08-20.53.12:061][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.06.08-20.53.12:067][949]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.53.12:074][949]LogInit: FAudioDevice initialized.
+[2019.06.08-20.53.12:077][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.53.12:103][949]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.08-20.53.12:106][949]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.06.08-15.53.12
+[2019.06.08-20.53.12:107][949]LogWorld: Bringing up level for play took: 0.002600
+[2019.06.08-20.53.12:118][949]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.12:120][949]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] TestLevel01
+[2019.06.08-20.53.12:121][949]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.954
+[2019.06.08-20.53.12:121][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.53.19:037][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.53.19:038][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.53.19:052][777]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-20.53.19:088][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-20.53.19:088][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.53.19:132][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.06.08-20.53.19:150][778]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.08-20.53.39:159][175]BlueprintLog: New page: Compile CH_Player
+[2019.06.08-20.53.39:217][175]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.39:218][175]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.39:392][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.06.08-20.53.39:407][175]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.39:408][175]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.39:425][175]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.39:425][175]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.40:090][250]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.08-20.53.40:110][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.53.40:110][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-20.53.40:110][250]PIE: New page: PIE session: TestLevel01 (Jun 8, 2019, 10:53:40 AM)
+[2019.06.08-20.53.40:110][250]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.06.08-20.53.40:126][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016316s)
+[2019.06.08-20.53.40:127][250]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.53.40:127][250]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2019.06.08-20.53.40:127][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.017276s)
+[2019.06.08-20.53.40:167][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.06.08-20.53.40:173][250]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.53.40:180][250]LogInit: FAudioDevice initialized.
+[2019.06.08-20.53.40:183][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.53.40:216][250]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.08-20.53.40:219][250]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.06.08-15.53.40
+[2019.06.08-20.53.40:219][250]LogWorld: Bringing up level for play took: 0.002887
+[2019.06.08-20.53.40:230][250]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.53.40:232][250]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] TestLevel01
+[2019.06.08-20.53.40:233][250]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 1.066
+[2019.06.08-20.53.40:233][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.53.45:933][932]LogScript: Warning: Attempted to access BP_GripRefill_C_3 via property K2Node_DynamicCast_AsBP_Inter_Base, but BP_GripRefill_C_3 is pending kill
+	BP_Spawner_C /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01:PersistentLevel.BP_Spawner2
+	Function /Game/Blueprints/BP_Spawner.BP_Spawner_C:RequestSpawn:030F
+[2019.06.08-20.53.45:934][932]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_GripRefill_C_3 via property K2Node_DynamicCast_AsBP_Inter_Base, but BP_GripRefill_C_3 is pending kill". Blueprint:  BP_Spawner Function:  Request Spawn Graph:  RequestSpawn Node:  Set ParentSpawner
+[2019.06.08-20.53.45:934][932]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_Spawner_C /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01:PersistentLevel.BP_Spawner2
+	Function /Game/Blueprints/BP_Spawner.BP_Spawner_C:RequestSpawn:0324
+[2019.06.08-20.53.45:934][932]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_Spawner Function:  Request Spawn Graph:  RequestSpawn Node:  Set ParentSpawner
+[2019.06.08-20.53.50:300][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.53.50:300][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.53.50:315][456]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-20.53.50:355][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-20.53.50:355][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.53.50:434][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.06.08-20.53.50:461][457]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.06.08-20.53.56:196][135]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-20.53.56:198][135]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-20.54.13:702][221]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.54.14:948][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-20.54.23:113][309]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.08-20.54.23:132][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.54.23:132][309]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.08-20.54.23:152][309]LogPlayLevel: [PlayLevel] Compiling CH_Player before play...
+[2019.06.08-20.54.23:192][309]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.54.23:193][309]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.54.23:345][309]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.54.23:345][309]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.54.23:377][309]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.54.23:378][309]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.54.23:422][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.06.08-20.54.23:422][309]LogPlayLevel: PlayLevel: Blueprint regeneration took 290 ms (1 blueprints)
+[2019.06.08-20.54.23:423][309]PIE: New page: PIE session: TestLevel01 (Jun 8, 2019, 10:54:23 AM)
+[2019.06.08-20.54.23:423][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.06.08-20.54.23:439][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016338s)
+[2019.06.08-20.54.23:440][309]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.54.23:440][309]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2019.06.08-20.54.23:440][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.017487s)
+[2019.06.08-20.54.23:477][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.06.08-20.54.23:483][309]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.54.23:489][309]LogInit: FAudioDevice initialized.
+[2019.06.08-20.54.23:494][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.54.23:521][309]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.08-20.54.23:523][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.06.08-15.54.23
+[2019.06.08-20.54.23:524][309]LogWorld: Bringing up level for play took: 0.002407
+[2019.06.08-20.54.23:536][309]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.54.23:538][309]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] TestLevel01
+[2019.06.08-20.54.23:539][309]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.372
+[2019.06.08-20.54.23:540][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.54.31:423][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.54.31:423][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.54.31:438][229]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-20.54.31:473][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-20.54.31:473][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.54.31:513][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.06.08-20.54.31:524][230]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.06.08-20.55.04:439][165]LogEditorViewport: Clicking on Actor (LMB): BP_HitNoGrapple_C (BP_HitNoGrapple18)
+[2019.06.08-20.55.10:797][926]LogEditorViewport: Clicking on Actor (LMB): BP_HitBase_Lava_C (BP_HitBase_Lava15)
+[2019.06.08-20.55.22:032][271]Cmd: DUPLICATE
+[2019.06.08-20.55.22:032][271]Cmd: ACTOR DUPLICATE
+[2019.06.08-20.55.41:884][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-20.55.41:984][658]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.08-20.55.42:005][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.55.42:005][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-20.55.42:005][658]PIE: New page: PIE session: TestLevel01 (Jun 8, 2019, 10:55:42 AM)
+[2019.06.08-20.55.42:005][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.06.08-20.55.42:021][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016063s)
+[2019.06.08-20.55.42:022][658]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.55.42:022][658]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2019.06.08-20.55.42:022][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.016942s)
+[2019.06.08-20.55.42:063][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.06.08-20.55.42:069][658]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.55.42:076][658]LogInit: FAudioDevice initialized.
+[2019.06.08-20.55.42:105][658]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.08-20.55.42:115][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.06.08-15.55.42
+[2019.06.08-20.55.42:116][658]LogWorld: Bringing up level for play took: 0.008837
+[2019.06.08-20.55.42:131][658]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.55.42:137][658]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] TestLevel01
+[2019.06.08-20.55.42:139][658]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.972
+[2019.06.08-20.55.42:139][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.56.20:788][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.56.20:788][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.56.20:819][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-20.56.20:819][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.56.20:858][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.56.20:862][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.06.08-20.56.20:893][289]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.06.08-20.56.22:344][463]LogEditorViewport: Clicking on Actor (LMB): BP_HitBase_Lava_C (BP_HitBase_Lava16)
+[2019.06.08-20.56.23:241][569]Cmd: DELETE
+[2019.06.08-20.56.23:241][569]Cmd: ACTOR DELETE
+[2019.06.08-20.56.23:247][569]LogEditorActor: Deleted Actor: BP_HitBase_Lava_C
+[2019.06.08-20.56.23:281][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.06.08-20.56.23:281][569]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.06.08-20.56.27:508][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-20.56.32:399][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.06.08-20.56.34:050][616]LogSlate: Window 'Save Content' being destroyed
+[2019.06.08-20.56.34:132][616]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/BP_Spawner6B1AC84E492D22694330CAB9A71373A5.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Blueprints/BP_Spawner.uasset'
+[2019.06.08-20.56.34:156][616]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.56.34:444][616]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/CH_Player3A063E124649185C5E88A6998EE28A6D.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Blueprints/Characters/CH_Player.uasset'
+[2019.06.08-20.56.34:536][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.06.08-20.56.34:792][616]LogSavePackage: Moving '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Saved/TestLevel01F9E338BC441A8477CBF6C08E5E5B453A.tmp' to '../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Maps/TestLevel01.umap'
+[2019.06.08-20.56.34:895][616]LogFileHelpers: Saving map 'TestLevel01' took 0.433
+[2019.06.08-20.56.37:986][881]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'SphereTrigger' for 'Mesh' in BlueprintGeneratedClass 'BP_Portal_C' (it may have been removed)
+[2019.06.08-20.56.37:988][881]LogAIModule: Creating AISystem for world SideScrollerPlayground
+[2019.06.08-20.56.38:029][881]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/SideScrollerPlayground.SideScrollerPlayground
+[2019.06.08-20.56.38:074][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.06.08-20.56.38:075][881]LightingResults: New page: Lighting Build
+[2019.06.08-20.56.38:076][881]LoadErrors: New page: Loading map: SideScrollerPlayground.umap
+[2019.06.08-20.56.38:077][881]MapCheck: New page: Map Check
+[2019.06.08-20.56.38:077][881]LightingResults: New page: Lighting Build
+[2019.06.08-20.56.38:111][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.06.08-20.56.38:120][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-20.56.38:158][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.06.08-20.56.38:184][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-20.56.38:184][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2019.06.08-20.56.38:184][881]LogFileHelpers: Loading map 'SideScrollerPlayground' took 0.109
+[2019.06.08-20.56.39:963][ 79]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.56.39:992][ 79]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TestLevel01.TestLevel01
+[2019.06.08-20.56.40:026][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.06.08-20.56.40:027][ 79]Cmd: MAP LOAD FILE="../../../../../../Users/blifson/Documents/Unreal Projects/West/WestBattleAndCinematicsGit/Unreal/MagnetCave/Content/Maps/TestLevel01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-20.56.40:027][ 79]LightingResults: New page: Lighting Build
+[2019.06.08-20.56.40:028][ 79]LoadErrors: New page: Loading map: TestLevel01.umap
+[2019.06.08-20.56.40:029][ 79]MapCheck: New page: Map Check
+[2019.06.08-20.56.40:029][ 79]LightingResults: New page: Lighting Build
+[2019.06.08-20.56.40:066][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.06.08-20.56.40:094][ 79]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-20.56.40:131][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.06.08-20.56.40:158][ 79]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-20.56.40:158][ 79]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2019.06.08-20.56.40:158][ 79]LogFileHelpers: Loading map 'TestLevel01' took 0.132
+[2019.06.08-20.56.41:465][226]LogAIModule: Creating AISystem for world SideScrollerPlayground
+[2019.06.08-20.56.50:995][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.06.08-20.56.51:130][281]LogAIModule: Creating AISystem for world TestLevel02
+[2019.06.08-20.57.44:274][629]BlueprintLog: New page: Compile BP_Spawner
+[2019.06.08-20.57.44:467][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.06.08-20.57.44:479][629]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.57.44:479][629]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.57.44:480][629]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.57.44:480][629]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.57.44:508][629]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.57.44:509][629]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.57.44:510][629]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.57.44:510][629]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.58.56:376][160]BlueprintLog: New page: Compile BP_Spawner
+[2019.06.08-20.58.56:575][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.06.08-20.58.56:585][160]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.58.56:586][160]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.58.56:586][160]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.58.56:587][160]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.58.56:615][160]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.58.56:616][160]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.58.56:616][160]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.58.56:617][160]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:519][485]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.08-20.59.24:554][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.59.24:554][485]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.08-20.59.24:573][485]LogPlayLevel: [PlayLevel] Compiling CH_Player before play...
+[2019.06.08-20.59.24:614][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:615][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:616][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:617][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:834][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:834][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:835][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:835][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:836][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:856][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:856][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:857][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:858][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.24:902][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.06.08-20.59.24:902][485]LogPlayLevel: PlayLevel: Blueprint regeneration took 348 ms (1 blueprints)
+[2019.06.08-20.59.24:902][485]PIE: New page: PIE session: TestLevel01 (Jun 8, 2019, 10:59:24 AM)
+[2019.06.08-20.59.24:903][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.06.08-20.59.24:922][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019692s)
+[2019.06.08-20.59.24:923][485]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.59.24:923][485]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2019.06.08-20.59.24:923][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.020822s)
+[2019.06.08-20.59.24:961][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.06.08-20.59.24:967][485]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.59.24:974][485]LogInit: FAudioDevice initialized.
+[2019.06.08-20.59.24:978][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.59.25:009][485]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.08-20.59.25:014][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.06.08-15.59.25
+[2019.06.08-20.59.25:014][485]LogWorld: Bringing up level for play took: 0.004605
+[2019.06.08-20.59.25:028][485]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.25:031][485]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] TestLevel01
+[2019.06.08-20.59.25:033][485]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 -0.134
+[2019.06.08-20.59.25:033][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.59.31:905][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.59.31:905][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.59.31:919][285]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-20.59.31:956][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-20.59.31:957][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.59.31:995][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.06.08-20.59.32:010][286]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.06.08-20.59.48:294][225]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.08-20.59.48:315][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.59.48:315][225]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.08-20.59.48:332][225]LogPlayLevel: [PlayLevel] Compiling CH_Player before play...
+[2019.06.08-20.59.48:373][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:374][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:375][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:375][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:532][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:533][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:534][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:534][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:535][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:555][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:556][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:556][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:557][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:602][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.06.08-20.59.48:602][225]LogPlayLevel: PlayLevel: Blueprint regeneration took 286 ms (1 blueprints)
+[2019.06.08-20.59.48:602][225]PIE: New page: PIE session: TestLevel01 (Jun 8, 2019, 10:59:48 AM)
+[2019.06.08-20.59.48:602][225]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.06.08-20.59.48:618][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015347s)
+[2019.06.08-20.59.48:618][225]LogAIModule: Creating AISystem for world TestLevel01
+[2019.06.08-20.59.48:618][225]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2019.06.08-20.59.48:619][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.016363s)
+[2019.06.08-20.59.48:655][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.06.08-20.59.48:661][225]LogInit: XAudio2 using 'SAMSUNG-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-20.59.48:667][225]LogInit: FAudioDevice initialized.
+[2019.06.08-20.59.48:672][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.59.48:711][225]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.08-20.59.48:714][225]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.06.08-15.59.48
+[2019.06.08-20.59.48:714][225]LogWorld: Bringing up level for play took: 0.002370
+[2019.06.08-20.59.48:726][225]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_BP_Miner_C already exists. Remove duplicates from the animation graph for this class.
+[2019.06.08-20.59.48:728][225]LogBlueprintUserMessages: [SideScrollerGameMode_C_0] TestLevel01
+[2019.06.08-20.59.48:729][225]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 -0.438
+[2019.06.08-20.59.48:729][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.59.56:397][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.59.56:397][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-20.59.56:412][121]LogSlate: Window 'MagnetCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-20.59.56:451][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-20.59.56:451][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01' with GeneratedClass '/Game/Maps/TestLevel01.TestLevel01_C' with ClassGeneratedBy '/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.TestLevel01'
+[2019.06.08-20.59.56:495][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.06.08-20.59.56:510][122]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.06.08-21.00.31:702][333]LogUObjectArray: Warning: Other object in slot
+[2019.06.08-21.00.31:716][333]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.08-21.00.32:283][333]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.567 s
+[2019.06.08-21.00.32:283][333]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.08-21.00.32:283][333]LogOutputDevice: Error: 
+[2019.06.08-21.00.32:283][333]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: Stack: 
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8a680b0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8a6086f7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8a6094d90 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8b19c37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8a4145cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8a4101e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8bd9b5984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8bdba15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8bd9fd70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8bd9daf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8bd9d0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8e465b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8e464ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8e465d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8e464c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8ee1d6d41 USER32.dll!UnknownFunction []
+[2019.06.08-21.00.32:284][333]LogOutputDevice: Error: [Callstack] 0x00007ff8ee1d6713 USER32.dll!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: [Callstack] 0x00007ff8e465e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: [Callstack] 0x00007ff6af6b5d3e UE4Editor.exe!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: [Callstack] 0x00007ff6af6c554c UE4Editor.exe!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: [Callstack] 0x00007ff6af6c55ca UE4Editor.exe!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: [Callstack] 0x00007ff6af6d316c UE4Editor.exe!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: [Callstack] 0x00007ff6af6d5b8e UE4Editor.exe!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: [Callstack] 0x00007ff8f0054034 KERNEL32.DLL!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: [Callstack] 0x00007ff8f0c73691 ntdll.dll!UnknownFunction []
+[2019.06.08-21.00.32:285][333]LogOutputDevice: Error: 
+[2019.06.08-21.00.32:309][333]LogStats:                SubmitErrorReport -  0.000 s
